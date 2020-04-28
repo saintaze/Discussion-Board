@@ -23,8 +23,6 @@ clone repo
 
 run `meteor`
 
-# Live Version
-#### URL: [Start Discussing](https://sleepy-mclean-b4e66f.netlify.com/)
 
 # Author
 Saintaze [@saintaze](https://github.com/saintaze/)
