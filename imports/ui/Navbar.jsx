@@ -8,7 +8,7 @@ const Navbar = ({ history, currentUser }) => {
 
   return (
     <div className="ui small menu">
-      <a className="item"><h2>Feeds App</h2></a>
+      <a className="item"><h2>Discuss Me</h2></a>
       <a className="item">Home</a>
       <a className="item">About</a>
       {currentUser && (
