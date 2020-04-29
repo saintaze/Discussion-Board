@@ -16,6 +16,9 @@ A discussion board app where a user can signup/signup and start making comments 
 + Meteor
 + Semantic UI
 
+![SignIn/SignUp](https://ibb.co/J3c7zV1)
+![Commenting on Discussion Feed](https://ibb.co/mDFPzHr)
+
 ### Getting Started
 clone repo
 
